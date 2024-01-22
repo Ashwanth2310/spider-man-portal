@@ -1,0 +1,21 @@
+{
+  "name": "spider-man-portal",
+  "displayName": "Spider-Man-Portal",
+  "description": "Spider man portal inspired theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spider Man Portal - Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spider Man Portal - Theme-color-theme.json"
+      }
+    ]
+  }
+}
