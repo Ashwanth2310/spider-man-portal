@@ -17,5 +17,9 @@
         "path": "./themes/Spider Man Portal - Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ashwanth2310/spider-man-portal.git"
   }
 }
